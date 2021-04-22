@@ -1,0 +1,1 @@
+export {AnimatedName} from './AnimatedName';
